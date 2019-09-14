@@ -1,3 +1,6 @@
+the mirror of [darknetapp in bitbucket](https://bitbucket.org/ChernyshovYuriy/darknetapp), but with some modification in CMakeLists.txt
+
+---
 # README #
 
 This project uses [Darknet](https://github.com/pjreddie/darknet) library and Deep Neural Network (DNN) to detect and recognize objects. It uses C++ as base language.
